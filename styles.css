@@ -5,6 +5,7 @@ body {
 
 .one {
   color: pink;
+  text-decoration: underline;
 }
 
 .two {
